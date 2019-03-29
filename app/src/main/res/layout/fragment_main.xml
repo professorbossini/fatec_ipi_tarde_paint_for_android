@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<br.com.bossini.fatec_ipi_tarde_paint_for_android.DoodleView
+    android:id="@+id/doodleView"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</br.com.bossini.fatec_ipi_tarde_paint_for_android.DoodleView>
